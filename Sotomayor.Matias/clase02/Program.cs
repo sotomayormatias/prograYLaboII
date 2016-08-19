@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Manualidades;
 
 namespace clase02
 {
@@ -12,13 +13,15 @@ namespace clase02
         {
 
             Sello.mensaje = "Hola mundo";
-            Console.WriteLine("1.- " + Sello.imprimir());
+            Sello.imprimir();
             Sello.borrar();
-            Console.WriteLine("2.- " + Sello.imprimir());
+            Sello.imprimir();
             Sello.mensaje = "Otro mensaje";
-            Sello.color = ConsoleColor.Cyan;
-            Sello.imprimirEnColor();
-            Console.WriteLine("3.- " + Sello.imprimir());
+            Sello.imprimirEnColor(ConsoleColor.Green);
+            Sello.imprimir();
+            Sello.imprimirConFormato();
+            Sello.mensaje = "        ";
+            Sello.imprimirConFormato();
             Console.ReadKey();
         }
     }
