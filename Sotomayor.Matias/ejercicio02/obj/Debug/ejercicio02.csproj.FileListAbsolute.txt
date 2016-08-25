@@ -1,0 +1,5 @@
+D:\Sotomayor\Sotomayor.Matias\ejercicio02\bin\Debug\ejercicio02.exe.config
+D:\Sotomayor\Sotomayor.Matias\ejercicio02\bin\Debug\ejercicio02.exe
+D:\Sotomayor\Sotomayor.Matias\ejercicio02\bin\Debug\ejercicio02.pdb
+D:\Sotomayor\Sotomayor.Matias\ejercicio02\obj\Debug\ejercicio02.exe
+D:\Sotomayor\Sotomayor.Matias\ejercicio02\obj\Debug\ejercicio02.pdb
