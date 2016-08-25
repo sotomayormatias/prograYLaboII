@@ -11,11 +11,33 @@ namespace ejercicio03
         static void Main(string[] args)
         {
             Console.WriteLine("Ingrese un numero");
-            int numero = int.Parse(Console.ReadLine());
+            int numeroIngresado = int.Parse(Console.ReadLine());
+            string numeros = "";
 
-            for (int i = 0; i < numero; i++) { 
-                
+            for (int i = 0; i < numeroIngresado; i++)
+            { 
+                if(VerificarPrimo(i)){
+                    if(numeros == "")
+                        numeros += i;
+                    else
+ 			            numeros += ", " + i;
+ 		        }
             }
+
+            Console.WriteLine("Los numeros primos hasta el numero ingresado son: {0}", numeros);
+
+            Console.ReadKey();
+        }
+
+        private static Boolean VerificarPrimo(int numero){
+ 	        int contador = 0;
+
+ 	        for(var i=1; i<=numero; i++){
+ 		        if(numero%i == 0){
+ 			        contador++;
+ 		        }
+ 	        }
+ 	        return contador == 2;
         }
     }
 }
