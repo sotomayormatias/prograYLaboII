@@ -1,0 +1,6 @@
+D:\sotomayor\Sotomayor.Matias\ejercicio13\bin\Debug\ejercicio13.exe.config
+D:\sotomayor\Sotomayor.Matias\ejercicio13\bin\Debug\ejercicio13.exe
+D:\sotomayor\Sotomayor.Matias\ejercicio13\bin\Debug\ejercicio13.pdb
+D:\sotomayor\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.exe
+D:\sotomayor\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.pdb
+D:\sotomayor\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.csprojResolveAssemblyReference.cache

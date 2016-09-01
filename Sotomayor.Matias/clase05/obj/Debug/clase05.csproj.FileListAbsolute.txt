@@ -1,0 +1,6 @@
+D:\sotomayor\Sotomayor.Matias\clase05\bin\Debug\clase05.exe.config
+D:\sotomayor\Sotomayor.Matias\clase05\bin\Debug\clase05.exe
+D:\sotomayor\Sotomayor.Matias\clase05\bin\Debug\clase05.pdb
+D:\sotomayor\Sotomayor.Matias\clase05\obj\Debug\clase05.exe
+D:\sotomayor\Sotomayor.Matias\clase05\obj\Debug\clase05.pdb
+D:\sotomayor\Sotomayor.Matias\clase05\obj\Debug\clase05.csprojResolveAssemblyReference.cache
