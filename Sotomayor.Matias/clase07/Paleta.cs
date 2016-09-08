@@ -35,8 +35,8 @@ namespace clase07
 
         private static string Mostrar(Paleta unaPaleta) {
             string detalle = "Cantidad maxima: " + unaPaleta._cantMaximaColores + "\n";
-            for(int i = 0; i < unaPaleta._cantMaximaColores; i++) {
-                detalle += "Tempera " + i + ": " + unaPaleta._temperas[i];
+            for(int i = 0; i < unaPaleta.cantTemperas(); i++) {
+                detalle += "Tempera " + i + ": " + unaPaleta._temperas[i] + "\n";
             }
 
             return detalle;
@@ -45,9 +45,10 @@ namespace clase07
         //Retorna verdadero si en el array de temperas de la paleta hay una como la tempera pasada por parametro 
         public static bool operator ==(Paleta unaPaleta, Tempera unaTempera) {
             bool sonIguales = false;
-            foreach (Tempera temp in unaPaleta._temperas)
+            for (int i = 0; i < unaPaleta._cantMaximaColores; i++)
             {
-                if (temp == unaTempera) {
+                if (unaPaleta._temperas.GetValue(i) != null && unaPaleta._temperas[i] == unaTempera)
+                {
                     sonIguales = true;
                 }
             }
@@ -55,11 +56,23 @@ namespace clase07
             return sonIguales;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="unaPaleta"></param>
+        /// <param name="unaTempera"></param>
+        /// <returns></returns>
         public static bool operator !=(Paleta unaPaleta, Tempera unaTempera)
         {
             return !(unaPaleta == unaTempera);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="unaPaleta"></param>
+        /// <param name="unaTempera"></param>
+        /// <returns></returns>
         public static Paleta operator +(Paleta unaPaleta, Tempera unaTempera){
             int cantTemperas = unaPaleta.cantTemperas();
             if (cantTemperas < unaPaleta._cantMaximaColores && unaPaleta != unaTempera)
@@ -70,12 +83,76 @@ namespace clase07
 
         private int cantTemperas() {
             int cant = 0;
-            foreach (Tempera temp in this._temperas)
+            for (int i = 0; i < this._cantMaximaColores; i++)
             {
-                if (temp != null)
+                if (this._temperas.GetValue(i) != null)
                     cant++;
             }
             return cant;
+        }
+
+        /// <summary>
+        /// Suma dos paletas, las temperas repetidas las genera una sola vez y le suma las cantidades
+        /// la paleta resultante no tiene temperas nulas
+        /// </summary>
+        /// <param name="paleta1"></param>
+        /// <param name="paleta2"></param>
+        /// <returns></returns>
+        public static Paleta operator +(Paleta paleta1, Paleta paleta2)
+        {
+            int contIguales = 0;
+
+            for (int i = 0; i < paleta2.cantTemperas(); i++)
+            {
+                if (paleta1 == paleta2._temperas[i]) {
+                    contIguales++;
+                }
+            }
+
+            sbyte nuevaCantMax = (sbyte)(paleta1.cantTemperas() + paleta2.cantTemperas() - contIguales);
+            Paleta nuevaPaleta = new Paleta(nuevaCantMax);
+            
+            for (int i = 0; i < paleta2.cantTemperas(); i++)
+            {
+                if (paleta1 == paleta2._temperas[i])
+                {
+                    int indice = paleta1.buscarTempera(paleta2._temperas[i]);
+                    Tempera nuevaTempera = paleta1._temperas[indice] + paleta2._temperas[i];
+                    nuevaPaleta += nuevaTempera;
+                }
+                else 
+                {
+                    nuevaPaleta += paleta2._temperas[i];
+                }
+            }
+
+            for (int i = 0; i < paleta1.cantTemperas(); i++)
+            {
+                if (paleta2 != paleta1._temperas[i])
+                {
+                    nuevaPaleta += paleta1._temperas[i];
+                }
+            }
+
+            return nuevaPaleta;
+        }
+
+        /// <summary>
+        /// Retorna el indice en donde se encuentra la tempera en la paleta
+        /// </summary>
+        /// <param name="unaTempera"></param>
+        /// <returns></returns>
+        private int buscarTempera(Tempera unaTempera) {
+            int indice = -1;
+            if (this == unaTempera) {
+                for(int i = 0; i < this.cantTemperas(); i++) {
+                    if (this._temperas[i] == unaTempera) {
+                        indice = i;
+                    }
+                }
+            }
+
+            return indice;
         }
 
         //Falta agregar el paleta + paleta
