@@ -15,6 +15,14 @@ namespace clase07
         private String _marca;
         private SByte _cantidad;
 
+        public string Marca 
+        {
+            get { return this._marca; }
+            set { this._marca = value; }
+        }
+
+        public float Precio { get; set; }
+
         #endregion
 
         #region Constructor
