@@ -1,0 +1,5 @@
+D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\bin\Debug\ClassLibraryClase08.dll
+D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\bin\Debug\ClassLibraryClase08.pdb
+D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.dll
+D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.pdb
