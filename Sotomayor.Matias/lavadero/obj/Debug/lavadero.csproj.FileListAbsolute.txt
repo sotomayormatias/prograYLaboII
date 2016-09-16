@@ -1,0 +1,5 @@
+D:\Sotomayor\Sotomayor.Matias\lavadero\obj\Debug\lavadero.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\lavadero\bin\Debug\lavadero.dll
+D:\Sotomayor\Sotomayor.Matias\lavadero\bin\Debug\lavadero.pdb
+D:\Sotomayor\Sotomayor.Matias\lavadero\obj\Debug\lavadero.dll
+D:\Sotomayor\Sotomayor.Matias\lavadero\obj\Debug\lavadero.pdb
