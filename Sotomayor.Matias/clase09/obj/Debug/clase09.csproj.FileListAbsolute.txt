@@ -1,1 +1,3 @@
 D:\Sotomayor\Sotomayor.Matias\clase09\bin\Debug\clase09.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\bin\Debug\clase09.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\obj\Debug\clase09.csprojResolveAssemblyReference.cache

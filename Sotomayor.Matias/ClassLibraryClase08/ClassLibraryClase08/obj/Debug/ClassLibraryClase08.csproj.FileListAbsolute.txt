@@ -3,3 +3,8 @@ D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\bin\Debug\
 D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.dll
 D:\Sotomayor\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\bin\Debug\ClassLibraryClase08.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\bin\Debug\ClassLibraryClase08.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ClassLibraryClase08\ClassLibraryClase08\obj\Debug\ClassLibraryClase08.pdb
