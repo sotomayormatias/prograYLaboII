@@ -42,11 +42,11 @@ namespace ClassLibraryClase08
         #region Metodos de instancia
             public string Mostrar()
             {
-                return "NOMBRE: " + this._nombre +
-                    "\n APELLIDO: " + this._apellido +
-                    "\n LEGAJO: " + this._legajo +
-                    "\n PUESTO: " + this._puesto +
-                    "\n SALARIO: $" + this._salario + "\n\n";
+                return "NOMBRE: " + this._nombre + "\n" +
+                    "APELLIDO: " + this._apellido + "\n" +
+                    "LEGAJO: " + this._legajo + "\n" +
+                    "PUESTO: " + this._puesto + "\n" +
+                    "SALARIO: $" + this._salario + "\n\n";
             } 
         #endregion
     }

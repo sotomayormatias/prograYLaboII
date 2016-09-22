@@ -135,6 +135,7 @@
             this.btnEmpresa.TabIndex = 10;
             this.btnEmpresa.Text = "Empresa";
             this.btnEmpresa.UseVisualStyleBackColor = true;
+            this.btnEmpresa.Click += new System.EventHandler(this.btnEmpresa_Click);
             // 
             // btnLimpiarForm
             // 
@@ -144,6 +145,7 @@
             this.btnLimpiarForm.TabIndex = 11;
             this.btnLimpiarForm.Text = "Limpiar";
             this.btnLimpiarForm.UseVisualStyleBackColor = true;
+            this.btnLimpiarForm.Click += new System.EventHandler(this.btnLimpiarForm_Click);
             // 
             // btnAgregarItem
             // 
@@ -153,6 +155,7 @@
             this.btnAgregarItem.TabIndex = 12;
             this.btnAgregarItem.Text = "Agregar";
             this.btnAgregarItem.UseVisualStyleBackColor = true;
+            this.btnAgregarItem.Click += new System.EventHandler(this.btnAgregarItem_Click);
             // 
             // rtxtConsola
             // 
@@ -183,6 +186,7 @@
             this.Controls.Add(this.lblNombre);
             this.Name = "FrmEmpleado";
             this.Text = "Empleado";
+            this.Load += new System.EventHandler(this.FrmEmpleado_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

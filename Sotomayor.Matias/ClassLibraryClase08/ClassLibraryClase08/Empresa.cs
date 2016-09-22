@@ -38,24 +38,25 @@ namespace ClassLibraryClase08
                 this._nominaEmpleados = new List<Empleado>();
             }
 
-            public Empresa(string razonSocial, string direccion, int ganancias) : this()
+            public Empresa(string razonSocial, string direccion, float ganancias) : this()
             {
                 this.RazonSocial = razonSocial;
                 this.Direccion = direccion;
                 this.Ganancias = ganancias;
             }
+        #endregion
 
-            public static Empresa operator +(Empresa unaEmpresa, Empleado unEmpleado) {
+
+        #region Sobreacarga de operadores
+
+            public static Empresa operator +(Empresa unaEmpresa, Empleado unEmpleado)
+            {
                 if (unaEmpresa != unEmpleado)
                     unaEmpresa._nominaEmpleados.Add(unEmpleado);
 
                 return unaEmpresa;
             }
 
-        #endregion
-
-
-        #region Sobreacarga de operadores
             public static Boolean operator ==(Empresa unaEmpresa, Empleado unEmpleado)
             {
                 bool sonIguales = false;

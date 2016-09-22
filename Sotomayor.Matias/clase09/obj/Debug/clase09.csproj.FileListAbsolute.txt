@@ -1,3 +1,10 @@
 D:\Sotomayor\Sotomayor.Matias\clase09\bin\Debug\clase09.exe.config
 C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\bin\Debug\clase09.exe.config
 C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\obj\Debug\clase09.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\clase09\bin\Debug\clase09.exe
+D:\Sotomayor\Sotomayor.Matias\clase09\bin\Debug\clase09.pdb
+D:\Sotomayor\Sotomayor.Matias\clase09\bin\Debug\lavadero.dll
+D:\Sotomayor\Sotomayor.Matias\clase09\bin\Debug\lavadero.pdb
+D:\Sotomayor\Sotomayor.Matias\clase09\obj\Debug\clase09.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\clase09\obj\Debug\clase09.exe
+D:\Sotomayor\Sotomayor.Matias\clase09\obj\Debug\clase09.pdb

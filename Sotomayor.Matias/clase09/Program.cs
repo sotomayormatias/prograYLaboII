@@ -20,6 +20,10 @@ namespace clase09
             lava.Vehiculos.Sort(lava.OrdenarPorPatente);
 
             lava.Vehiculos.Sort(new Vehiculo("ABU037", 5, EMarcas.Ford).OrdenarPorMarca);
+
+            Console.WriteLine(lava.MostrarTotalFacturado());
+
+            Console.ReadKey();
         }
     }
 }
