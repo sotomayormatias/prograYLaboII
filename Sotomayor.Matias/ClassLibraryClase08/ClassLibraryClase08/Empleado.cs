@@ -6,25 +6,25 @@ using System.Threading.Tasks;
 
 namespace ClassLibraryClase08
 {
-    public class Empleado
+    public class Empleado : Persona
     {
         #region Atributos
-        private string _nombre;
-        private string _apellido;
         private string _legajo;
         private EPuestoJerarquico _puesto;
         private int _salario; 
         #endregion
 
         #region Constructor
-            public Empleado(string nombre, string apellido, string legajo, EPuestoJerarquico puesto, int salario)
+            public Empleado(string nombre, string apellido, string legajo, EPuestoJerarquico puesto, int salario) : base(nombre, apellido)
             {
-                this._nombre = nombre;
-                this._apellido = apellido;
                 this._legajo = legajo;
                 this._puesto = puesto;
                 this._salario = salario;
-            } 
+            }
+
+            public Empleado(Persona persona, string legajo, EPuestoJerarquico puesto, int salario) 
+            : this(persona.Nombre, persona.Apellido, legajo, puesto, salario)
+            { }
         #endregion
 
         #region Sobrecarga de Operadores
