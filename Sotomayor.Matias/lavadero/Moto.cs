@@ -23,7 +23,7 @@ namespace lavadero
             public string MostrarMoto()
             {
                 string mensaje = base.Mostrar();
-                mensaje += "Cilindrada: " + this._cilindrada + "\n";
+                mensaje += "Cilindrada: " + this._cilindrada + "\n\n";
 
                 return mensaje;
             }

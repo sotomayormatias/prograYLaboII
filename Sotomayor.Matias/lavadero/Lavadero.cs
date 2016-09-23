@@ -82,6 +82,22 @@ namespace lavadero
             {
                 return vehi1.Patente.CompareTo(vehi2.Patente);
             }
+
+            public string MostrarVehiculos()
+            {
+                string mensaje = "";
+                foreach (Vehiculo vehi in this._vehiculos)
+                {
+                    if (vehi is Auto)
+                        mensaje += ((Auto)vehi).MostrarAuto();
+                    else if(vehi is Moto)
+                        mensaje += ((Moto)vehi).MostrarMoto();
+                    else
+                        mensaje += ((Camion)vehi).MostrarCamion();
+                }
+
+                return mensaje;
+            }
         #endregion
 
         #region Sobrecarga de metodos

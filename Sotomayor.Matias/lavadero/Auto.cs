@@ -22,7 +22,7 @@ namespace lavadero
         #region Metodos
             public string MostrarAuto(){
                 string mensaje = base.Mostrar();
-                mensaje += "Cantidad de asientos: " + this._cantidadAsientos + "\n";
+                mensaje += "Cantidad de asientos: " + this._cantidadAsientos + "\n\n";
 
                 return mensaje;
             }

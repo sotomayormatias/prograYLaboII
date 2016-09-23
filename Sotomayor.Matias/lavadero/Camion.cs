@@ -23,7 +23,7 @@ namespace lavadero
         public string MostrarCamion()
         {
             string mensaje = base.Mostrar();
-            mensaje += "Tara: " + this._tara + "\n";
+            mensaje += "Tara: " + this._tara + "\n\n";
 
             return mensaje;
         }

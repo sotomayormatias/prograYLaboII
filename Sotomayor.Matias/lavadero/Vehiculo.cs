@@ -29,9 +29,9 @@ namespace lavadero
 
         #region Metodos
             protected string Mostrar() {
-                return "Patente: " + this.Patente +
-                        "\n Marca: " + this._marca +
-                        "\n Cantidad de ruedas: " + this._cantRuedas + "\n";
+                return "Patente: " + this.Patente + "\n" +
+                        "Marca: " + this._marca + "\n" +
+                        "Cantidad de ruedas: " + this._cantRuedas + "\n";
             }
 
             public void AcelerarHasta(Byte acelera) {
@@ -39,7 +39,7 @@ namespace lavadero
             }
 
             public int OrdenarPorMarca(Vehiculo vehi1, Vehiculo vehi2){
-                return vehi1._marca.CompareTo(vehi2._marca);
+                return vehi1._marca.ToString().CompareTo(vehi2._marca.ToString());
             }
         #endregion
 
