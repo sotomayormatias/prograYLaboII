@@ -81,7 +81,9 @@ namespace ArticuloClassLibrary
             }
 
             public static int operator +(Articulo articuloUno, Articulo articuloDos) {
-                return articuloUno._stock + articuloDos._stock;
+                if(articuloUno == articuloDos)
+                    return articuloUno._stock + articuloDos._stock;
+                return 0;
             }
 
             public static int operator -(Articulo articulo, int cantidad)
