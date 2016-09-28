@@ -1,0 +1,8 @@
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\bin\Debug\modelo1erParcial.exe.config
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\bin\Debug\modelo1erParcial.exe
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\bin\Debug\modelo1erParcial.pdb
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\bin\Debug\Modelo1erParcialLibrary.dll
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\bin\Debug\Modelo1erParcialLibrary.pdb
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.exe
+D:\Sotomayor\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.pdb
