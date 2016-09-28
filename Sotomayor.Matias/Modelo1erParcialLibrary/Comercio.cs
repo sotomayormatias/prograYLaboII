@@ -10,16 +10,20 @@ namespace ComercioClassLibrary
 {
     public class Comercio
     {
+        #region Atributos
         private string _duenio { get; set; }
         private List<Articulo> _misArticulos { get; set; }
-        private List<Venta> _misVentas { get; set; }
+        private List<Venta> _misVentas { get; set; } 
+        #endregion
 
+        #region Constructor
         public Comercio(string duenio)
         {
             this._duenio = duenio;
             this._misArticulos = new List<Articulo>();
             this._misVentas = new List<Venta>();
-        }
+        } 
+        #endregion
 
         #region Metodos
         public void ComprarArticulo(Articulo articuloComprado)
@@ -79,14 +83,14 @@ namespace ComercioClassLibrary
                     }
                     else
                     {
-                        Console.WriteLine("El siguiente producto no tiene stock para la venta \n" + articulo.NombreYCodigo + "\n\n");
+                        Console.WriteLine("El siguiente producto no tiene stock para la venta!!! \n" + articulo.NombreYCodigo + "\n\n");
                     }
                 }
             }
 
             if (!yaExiste)
             {
-                Console.WriteLine("El siguiente producto no existe en nuestro comercio \n" + articuloAsociado.NombreYCodigo + "\n");
+                Console.WriteLine("El siguiente producto no existe en nuestro comercio!!! \n" + articuloAsociado.NombreYCodigo + "\n");
             }
         }
         #endregion

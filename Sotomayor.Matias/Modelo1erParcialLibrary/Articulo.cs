@@ -48,18 +48,22 @@ namespace ArticuloClassLibrary
             } 
         #endregion
 
-        public Articulo(int codigo, string nombre, float precioCosto, int cantidad) 
+        #region Constructor
+        public Articulo(int codigo, string nombre, float precioCosto, int cantidad)
         {
             this._codigo = codigo;
             this._nombre = nombre;
             this.PrecioCosto = precioCosto;
             this.Stock = cantidad;
-        }
+        } 
+        #endregion
 
-        public bool HayStock(int cantidad) 
+        #region Metodos
+        public bool HayStock(int cantidad)
         {
             return this._stock >= cantidad;
-        }
+        } 
+        #endregion
 
         #region Sobrecarga de metodos
             public static bool operator ==(Articulo articuloUno, Articulo articuloDos)

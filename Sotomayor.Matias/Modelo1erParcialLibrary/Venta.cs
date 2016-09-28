@@ -9,16 +9,24 @@ namespace VentaClassLibrary
 {
     public class Venta
     {
+        #region Atributos
         private Articulo _articuloVendido { get; set; }
-        private int _cantidad { get; set; }
+        private int _cantidad { get; set; } 
+        #endregion
 
-        public Venta(Articulo articuloVendido, int cantidad) {
+        #region Constructor
+        public Venta(Articulo articuloVendido, int cantidad)
+        {
             this._articuloVendido = articuloVendido;
             this._cantidad = cantidad;
-        }
+        } 
+        #endregion
 
-        public float RetornarGanancia() {
+        #region Metodos
+        public float RetornarGanancia()
+        {
             return this._articuloVendido.PrecioVenta * this._cantidad;
-        }
+        } 
+        #endregion
     }
 }
