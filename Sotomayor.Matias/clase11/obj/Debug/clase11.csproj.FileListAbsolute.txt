@@ -1,0 +1,8 @@
+D:\Sotomayor\Sotomayor.Matias\clase11\bin\Debug\clase11.exe.config
+D:\Sotomayor\Sotomayor.Matias\clase11\bin\Debug\clase11.exe
+D:\Sotomayor\Sotomayor.Matias\clase11\bin\Debug\clase11.pdb
+D:\Sotomayor\Sotomayor.Matias\clase11\bin\Debug\clase11_ClassLibrary.dll
+D:\Sotomayor\Sotomayor.Matias\clase11\bin\Debug\clase11_ClassLibrary.pdb
+D:\Sotomayor\Sotomayor.Matias\clase11\obj\Debug\clase11.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\clase11\obj\Debug\clase11.exe
+D:\Sotomayor\Sotomayor.Matias\clase11\obj\Debug\clase11.pdb
