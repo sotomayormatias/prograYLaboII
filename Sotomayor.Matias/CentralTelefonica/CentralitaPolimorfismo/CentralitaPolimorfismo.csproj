@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA7DFB25-FE7F-49BF-ABB9-8B2CACA889C8}</ProjectGuid>
+    <ProjectGuid>{321493BD-297B-49C3-9772-97395E55A781}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CentralitaPlimorfismo</RootNamespace>
-    <AssemblyName>CentralitaHerencia</AssemblyName>
+    <RootNamespace>CentralitaPolimorfismo</RootNamespace>
+    <AssemblyName>CentralitaPolimorfismo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

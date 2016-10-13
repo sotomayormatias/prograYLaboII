@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CentralitaHerencia
+namespace CentralitaPolimorfismo
 {
     public class Centralita
     {
         private List<Llamada> _listaDeLlamadas;
         protected String _razonSocial;
 
-        public float GananciaPorLocal 
+        public float GananciaPorLocal
         {
             get
             {
@@ -35,7 +35,7 @@ namespace CentralitaHerencia
             }
         }
 
-        public List<Llamada> Llamadas 
+        public List<Llamada> Llamadas
         {
             get
             {
@@ -48,7 +48,7 @@ namespace CentralitaHerencia
             this._listaDeLlamadas = new List<Llamada>();
         }
 
-        public Centralita(string nombreEmpresa) 
+        public Centralita(string nombreEmpresa)
             : this()
         {
             this._razonSocial = nombreEmpresa;
@@ -78,11 +78,11 @@ namespace CentralitaHerencia
                         break;
                 }
             }
-            
+
             return ganancia;
         }
 
-        public void Mostrar()
+        public override string ToString()
         {
             StringBuilder mensaje = new StringBuilder();
 
@@ -96,11 +96,17 @@ namespace CentralitaHerencia
             mensaje.Append(this.GananciaPorProvincial + "\n");
             mensaje.Append("Detalle de llamadas: \n");
 
-            Console.WriteLine(mensaje);
             foreach (Llamada llamada in this._listaDeLlamadas)
             {
-                llamada.Mostrar();
+                mensaje.Append(llamada.ToString());
             }
+
+            return mensaje.ToString();
+        }
+
+        private void AgregarLlamada(Llamada nuevaLlamada)
+        {
+            this._listaDeLlamadas.Add(nuevaLlamada);
         }
 
         public void OrdenarLlamadas()
@@ -110,8 +116,28 @@ namespace CentralitaHerencia
 
         public static Centralita operator +(Centralita unaCentralita, Llamada unaLlamada)
         {
-            unaCentralita._listaDeLlamadas.Add(unaLlamada);
+            if (unaCentralita != unaLlamada)
+                unaCentralita.AgregarLlamada(unaLlamada);
+            else
+                Console.WriteLine("La llamada " + unaLlamada.ToString() + " ya estaba registrada en la centralita");
+
             return unaCentralita;
+        }
+
+        public static bool operator ==(Centralita unaCentralita, Llamada unaLlamada)
+        {
+            foreach (Llamada llam in unaCentralita._listaDeLlamadas)
+            {
+                if (llam == unaLlamada)
+                    return true;
+            }
+
+            return false;
+        }
+
+        public static bool operator !=(Centralita unaCentralita, Llamada unaLlamada)
+        {
+            return !(unaCentralita == unaLlamada);
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CentralitaHerencia
+namespace CentralitaPolimorfismo
 {
     class Program
     {
@@ -22,12 +22,12 @@ namespace CentralitaHerencia
             centra += llamLoc2;
             centra += llamProv2;
 
-            centra.Mostrar();
+            Console.WriteLine(centra.ToString());
 
             Console.ReadKey();
 
             centra.OrdenarLlamadas();
-            centra.Mostrar();
+            Console.WriteLine(centra.ToString());
 
             Console.ReadKey();
         }
