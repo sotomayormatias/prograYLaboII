@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Centralita.cs" />
+    <Compile Include="CentralitaException.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="Llamada.cs" />
     <Compile Include="Local.cs" />
