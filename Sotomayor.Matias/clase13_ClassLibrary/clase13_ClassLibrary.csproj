@@ -39,8 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="A.cs" />
     <Compile Include="Auto.cs" />
+    <Compile Include="B.cs" />
+    <Compile Include="C.cs" />
     <Compile Include="Cocina.cs" />
+    <Compile Include="Deposito.cs" />
     <Compile Include="DepositoDeAutos.cs" />
     <Compile Include="DepositoDeCocinas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
