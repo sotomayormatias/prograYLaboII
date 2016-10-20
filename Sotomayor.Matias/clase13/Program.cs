@@ -48,8 +48,27 @@ namespace clase13
             {
                 Console.WriteLine("No se pudo remover el item!!!");
             }
+
             Console.WriteLine(dc);
             Console.WriteLine(da);
+
+            Console.ReadLine();
+
+            Deposito<Deposito<Auto>> dda = new Deposito<Deposito<Auto>>(4);
+            Deposito<Auto> da2 = new Deposito<Auto>(6);
+            da2.Agregar(a1);
+            da2.Agregar(a3);
+            da2.Agregar(a4);
+
+            dda.Agregar(da);
+            dda.Agregar(da2);
+
+            Console.WriteLine(dda);
+
+            dda.Remover(da);
+
+            Console.WriteLine(dda);
+
             Console.ReadLine();
         }
     }
