@@ -1,0 +1,5 @@
+D:\Sotomayor\Sotomayor.Matias\clase13_ClassLibrary\bin\Debug\clase13_ClassLibrary.dll
+D:\Sotomayor\Sotomayor.Matias\clase13_ClassLibrary\bin\Debug\clase13_ClassLibrary.pdb
+D:\Sotomayor\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.dll
+D:\Sotomayor\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.pdb
