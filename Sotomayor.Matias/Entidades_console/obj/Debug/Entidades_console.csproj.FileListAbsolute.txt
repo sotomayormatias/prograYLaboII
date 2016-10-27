@@ -1,0 +1,8 @@
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\bin\Debug\Entidades_console.exe.config
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\bin\Debug\Entidades_console.exe
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\bin\Debug\Entidades_console.pdb
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\bin\Debug\Entidades.dll
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\bin\Debug\Entidades.pdb
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\obj\Debug\Entidades_console.csprojResolveAssemblyReference.cache
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\obj\Debug\Entidades_console.exe
+D:\Sotomayor\clases\Sotomayor.Matias\Entidades_console\obj\Debug\Entidades_console.pdb

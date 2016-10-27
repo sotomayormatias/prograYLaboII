@@ -10,6 +10,11 @@ namespace Entidades
     {
         protected double _precio;
 
+        public abstract double Precio
+        {
+            get;
+        }
+
         public Vehiculo(double precio)
         {
             this._precio = precio;

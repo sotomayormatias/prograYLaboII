@@ -10,10 +10,44 @@ namespace Entidades
     {
         protected int _cantAsientos;
 
+        public override double Precio
+        {
+            get
+            {
+                return this._precio;
+            }
+        }
+
+        public override string Patente
+        {
+            get
+            {
+                return this._patente;
+            }
+        }
+
+        public int CantAsientos
+        {
+            get
+            {
+                return this._cantAsientos;
+            }
+        }
+
         public Familiar(double precio, string patente, int cantidadAsientos)
+            : base(precio, patente)
         {
             this._cantAsientos = cantidadAsientos;
         }
 
+        public override void MostrarPrecio()
+        {
+            Console.WriteLine("Precio: " + this._precio);
+        }
+
+        public override void MostrarPatente()
+        {
+            Console.WriteLine("Patente: " + this._patente);
+        }
     }
 }

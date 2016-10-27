@@ -10,6 +10,11 @@ namespace Entidades
     {
         protected string _patente;
 
+        public abstract string Patente
+        {
+            get;
+        }
+
         public Auto(double precio, string patente)
             : base(precio)
         {

@@ -1,0 +1,5 @@
+D:\Sotomayor\clases\Sotomayor.Matias\clase14\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Sotomayor\clases\Sotomayor.Matias\clase14\bin\Debug\Entidades.dll
+D:\Sotomayor\clases\Sotomayor.Matias\clase14\bin\Debug\Entidades.pdb
+D:\Sotomayor\clases\Sotomayor.Matias\clase14\obj\Debug\Entidades.dll
+D:\Sotomayor\clases\Sotomayor.Matias\clase14\obj\Debug\Entidades.pdb

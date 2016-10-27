@@ -6,9 +6,28 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Carreta:Vehiculo
+    public class Carreta : Vehiculo, IARBA
     {
+        public override double Precio
+        {
+            get
+            {
+                return this._precio;
+            }
+        }
+
         public Carreta(double precio)
+            : base(precio)
         { }
+
+        public override void MostrarPrecio()
+        {
+            Console.WriteLine("Precio: " + this._precio);
+        }
+
+        public double CalcularImpuesto()
+        {
+            return this._precio * 0.18;
+        }
     }
 }
