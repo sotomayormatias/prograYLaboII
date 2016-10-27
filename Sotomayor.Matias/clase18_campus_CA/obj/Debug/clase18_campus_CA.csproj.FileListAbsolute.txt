@@ -1,0 +1,8 @@
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\bin\Debug\clase18_campus_CA.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\bin\Debug\clase18_campus_CA.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\bin\Debug\clase18_campus_CA.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\bin\Debug\clase18_campus.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\bin\Debug\clase18_campus.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\obj\Debug\clase18_campus_CA.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\obj\Debug\clase18_campus_CA.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_CA\obj\Debug\clase18_campus_CA.pdb

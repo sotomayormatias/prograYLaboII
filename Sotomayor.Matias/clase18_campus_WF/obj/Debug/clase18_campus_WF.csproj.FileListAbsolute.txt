@@ -1,0 +1,11 @@
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\obj\Debug\clase18_campus_WF.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\obj\Debug\clase18_campus_WF.Form1.resources
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\obj\Debug\clase18_campus_WF.Properties.Resources.resources
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\obj\Debug\clase18_campus_WF.csproj.GenerateResource.Cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\bin\Debug\clase18_campus_WF.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\bin\Debug\clase18_campus_WF.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\bin\Debug\clase18_campus_WF.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\bin\Debug\clase18_campus.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\bin\Debug\clase18_campus.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\obj\Debug\clase18_campus_WF.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase18_campus_WF\obj\Debug\clase18_campus_WF.pdb
