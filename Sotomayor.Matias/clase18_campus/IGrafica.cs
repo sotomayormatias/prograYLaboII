@@ -9,5 +9,6 @@ namespace clase18_campus_CL
     public interface IGrafica
     {
         void MostrarEnGUI(string datos);
+        bool EscribirTXT(string path, Empleado e);
     }
 }

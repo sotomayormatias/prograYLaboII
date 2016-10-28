@@ -11,7 +11,6 @@ namespace clase02
     {
         static void Main(string[] args)
         {
-
             Sello.mensaje = "Hola mundo";
             Sello.imprimir();
             Sello.borrar();

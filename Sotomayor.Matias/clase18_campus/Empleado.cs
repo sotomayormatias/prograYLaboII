@@ -54,6 +54,18 @@ namespace clase18_campus_CL
 
             grafica.MostrarEnGUI(sb.ToString());
         }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("NOMBRE: " + this._nombre);
+            sb.AppendLine("APELLIDO: " + this._apellido);
+            sb.AppendLine("LEGAJO: " + this._legajo);
+            sb.AppendLine("PUESTO: " + this._puesto);
+            sb.AppendLine("SALARIO: $" + this._salario + "\n");
+
+            return sb.ToString();
+        }
         #endregion
     }
 }
