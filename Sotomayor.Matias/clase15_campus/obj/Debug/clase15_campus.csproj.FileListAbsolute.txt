@@ -1,0 +1,5 @@
+D:\Sotomayor\Clases\Sotomayor.Matias\clase15_campus\bin\Debug\clase15_campus.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase15_campus\bin\Debug\clase15_campus.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase15_campus\bin\Debug\clase15_campus.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase15_campus\obj\Debug\clase15_campus.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase15_campus\obj\Debug\clase15_campus.pdb

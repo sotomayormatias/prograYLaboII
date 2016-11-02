@@ -4,3 +4,9 @@ D:\Sotomayor\Sotomayor.Matias\clase07\bin\Debug\clase07.pdb
 D:\Sotomayor\Sotomayor.Matias\clase07\obj\Debug\clase07.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Sotomayor.Matias\clase07\obj\Debug\clase07.exe
 D:\Sotomayor\Sotomayor.Matias\clase07\obj\Debug\clase07.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase07\bin\Debug\clase07.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase07\bin\Debug\clase07.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase07\bin\Debug\clase07.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase07\obj\Debug\clase07.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase07\obj\Debug\clase07.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase07\obj\Debug\clase07.pdb

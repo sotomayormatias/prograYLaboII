@@ -6,3 +6,11 @@ D:\Sotomayor\Sotomayor.Matias\clase13\bin\Debug\clase13_ClassLibrary.pdb
 D:\Sotomayor\Sotomayor.Matias\clase13\obj\Debug\clase13.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Sotomayor.Matias\clase13\obj\Debug\clase13.exe
 D:\Sotomayor\Sotomayor.Matias\clase13\obj\Debug\clase13.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13_ClassLibrary.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13_ClassLibrary.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.pdb

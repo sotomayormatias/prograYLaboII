@@ -4,3 +4,9 @@ D:\Sotomayor\Sotomayor.Matias\ejercicio01\bin\Debug\ejercicio01.pdb
 D:\Sotomayor\Sotomayor.Matias\ejercicio01\obj\Debug\ejercicio01.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Sotomayor.Matias\ejercicio01\obj\Debug\ejercicio01.exe
 D:\Sotomayor\Sotomayor.Matias\ejercicio01\obj\Debug\ejercicio01.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio01\bin\Debug\ejercicio01.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio01\bin\Debug\ejercicio01.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio01\bin\Debug\ejercicio01.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio01\obj\Debug\ejercicio01.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio01\obj\Debug\ejercicio01.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio01\obj\Debug\ejercicio01.pdb

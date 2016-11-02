@@ -11,3 +11,15 @@ D:\Sotomayor\Sotomayor.Matias\clase08\obj\Debug\clase08.Properties.Resources.res
 D:\Sotomayor\Sotomayor.Matias\clase08\obj\Debug\clase08.csproj.GenerateResource.Cache
 D:\Sotomayor\Sotomayor.Matias\clase08\obj\Debug\clase08.exe
 D:\Sotomayor\Sotomayor.Matias\clase08\obj\Debug\clase08.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\bin\Debug\clase08.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\bin\Debug\clase08.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\bin\Debug\clase08.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\bin\Debug\ClassLibraryClase08.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\bin\Debug\ClassLibraryClase08.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\obj\Debug\clase08.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\obj\Debug\clase08.FrmEmpleado.resources
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\obj\Debug\clase08.frmEmpresa.resources
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\obj\Debug\clase08.Properties.Resources.resources
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\obj\Debug\clase08.csproj.GenerateResource.Cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\obj\Debug\clase08.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase08\obj\Debug\clase08.pdb

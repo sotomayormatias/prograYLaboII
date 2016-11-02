@@ -3,3 +3,8 @@ D:\Sotomayor\Sotomayor.Matias\Modelo1erParcialLibrary\bin\Debug\Modelo1erParcial
 D:\Sotomayor\Sotomayor.Matias\Modelo1erParcialLibrary\obj\Debug\Modelo1erParcialLibrary.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Sotomayor.Matias\Modelo1erParcialLibrary\obj\Debug\Modelo1erParcialLibrary.dll
 D:\Sotomayor\Sotomayor.Matias\Modelo1erParcialLibrary\obj\Debug\Modelo1erParcialLibrary.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\Modelo1erParcialLibrary\bin\Debug\Modelo1erParcialLibrary.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\Modelo1erParcialLibrary\bin\Debug\Modelo1erParcialLibrary.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\Modelo1erParcialLibrary\obj\Debug\Modelo1erParcialLibrary.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\Modelo1erParcialLibrary\obj\Debug\Modelo1erParcialLibrary.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\Modelo1erParcialLibrary\obj\Debug\Modelo1erParcialLibrary.pdb

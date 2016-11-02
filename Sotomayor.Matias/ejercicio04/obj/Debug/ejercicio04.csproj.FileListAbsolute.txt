@@ -3,3 +3,8 @@ D:\Sotomayor\Sotomayor.Matias\ejercicio04\bin\Debug\ejercicio04.exe
 D:\Sotomayor\Sotomayor.Matias\ejercicio04\bin\Debug\ejercicio04.pdb
 D:\Sotomayor\Sotomayor.Matias\ejercicio04\obj\Debug\ejercicio04.exe
 D:\Sotomayor\Sotomayor.Matias\ejercicio04\obj\Debug\ejercicio04.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio04\bin\Debug\ejercicio04.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio04\bin\Debug\ejercicio04.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio04\bin\Debug\ejercicio04.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio04\obj\Debug\ejercicio04.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio04\obj\Debug\ejercicio04.pdb

@@ -8,3 +8,8 @@ C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\lavadero\bin\Debug\lavadero
 C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\lavadero\obj\Debug\lavadero.csprojResolveAssemblyReference.cache
 C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\lavadero\obj\Debug\lavadero.dll
 C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\lavadero\obj\Debug\lavadero.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\lavadero\bin\Debug\lavadero.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\lavadero\bin\Debug\lavadero.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\lavadero\obj\Debug\lavadero.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\lavadero\obj\Debug\lavadero.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\lavadero\obj\Debug\lavadero.pdb

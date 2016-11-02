@@ -7,3 +7,12 @@ D:\Sotomayor\Sotomayor.Matias\clase06\obj\Debug\clase06.Properties.Resources.res
 D:\Sotomayor\Sotomayor.Matias\clase06\obj\Debug\clase06.csproj.GenerateResource.Cache
 D:\Sotomayor\Sotomayor.Matias\clase06\obj\Debug\clase06.exe
 D:\Sotomayor\Sotomayor.Matias\clase06\obj\Debug\clase06.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\bin\Debug\clase06.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\bin\Debug\clase06.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\bin\Debug\clase06.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.Form1.resources
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.Properties.Resources.resources
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.csproj.GenerateResource.Cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.pdb

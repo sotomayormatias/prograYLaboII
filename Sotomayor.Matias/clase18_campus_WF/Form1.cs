@@ -23,6 +23,11 @@ namespace clase18_campus_WF
             lblDatos.Text = datos;
         }
 
+        public bool EscribirTXT(string path, Empleado e)
+        {
+            return true;
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             Empleado empleado = new Empleado("Norberto", "Napolitano", "1234", Empleado.EPuestoJerarquico.Gerencia, 999999999);

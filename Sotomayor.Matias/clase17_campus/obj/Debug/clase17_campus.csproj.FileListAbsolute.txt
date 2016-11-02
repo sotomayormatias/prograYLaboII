@@ -9,3 +9,8 @@ D:\Sotomayor\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.pdb
 D:\Sotomayor\clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus.exe.config
 D:\Sotomayor\clases\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.exe
 D:\Sotomayor\clases\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus_CL.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus_CL.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.csprojResolveAssemblyReference.cache
