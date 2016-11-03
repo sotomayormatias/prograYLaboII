@@ -1,0 +1,5 @@
+D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\bin\Debug\clase19_campus_CL.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\bin\Debug\clase19_campus_CL.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.pdb
