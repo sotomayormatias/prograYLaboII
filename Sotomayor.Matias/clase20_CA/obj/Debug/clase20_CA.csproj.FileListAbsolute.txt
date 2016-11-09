@@ -1,0 +1,8 @@
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20_CA.exe.config
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20_CA.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20_CA.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20.dll
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20.pdb
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.exe
+D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.pdb
