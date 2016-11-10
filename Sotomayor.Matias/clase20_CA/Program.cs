@@ -17,6 +17,13 @@ namespace clase20_CA
                 Console.WriteLine(persona.ToString());
             }
             Console.ReadKey();
+
+            Persona nuevaPersona = new Persona("Juan", 56);
+
+            if (nuevaPersona.Eliminar())
+                Console.WriteLine("Se elimino");
+
+            Console.ReadKey();
         }
     }
 }

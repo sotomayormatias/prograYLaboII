@@ -88,5 +88,55 @@ namespace clase20
                 throw e;
             }
         }
+
+        public bool Agregar()
+        {
+            try
+            {
+                _cn = new SqlConnection(Properties.Settings.Default.MiConexion);
+                _cmd = new SqlCommand();
+
+                _cmd.CommandType = System.Data.CommandType.Text;
+                _cmd.CommandText = "INSERT INTO Personas(nombre, edad) VALUES ('" + this.Nombre + "', " + this.Edad + ")";
+                _cmd.Connection = _cn;
+                _cn.Open();
+
+                //Para las instrucciones que no retornan valores(insert, update, delete) se ejecuta como NonQuery
+                //El dataReader es de solo lectura y de solo avance
+                _cmd.ExecuteNonQuery();
+                _cn.Close();
+
+                return true;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+        }
+
+        public bool Eliminar()
+        {
+            try
+            {
+                _cn = new SqlConnection(Properties.Settings.Default.MiConexion);
+                _cmd = new SqlCommand();
+
+                _cmd.CommandType = System.Data.CommandType.Text;
+                _cmd.CommandText = "DELETE FROM Personas WHERE nombre = '" + this.Nombre + "'";
+                _cmd.Connection = _cn;
+                _cn.Open();
+
+                //Para las instrucciones que no retornan valores(insert, update, delete) se ejecuta como NonQuery
+                //El dataReader es de solo lectura y de solo avance
+                _cmd.ExecuteNonQuery();
+                _cn.Close();
+
+                return true;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+        }
     }
 }
