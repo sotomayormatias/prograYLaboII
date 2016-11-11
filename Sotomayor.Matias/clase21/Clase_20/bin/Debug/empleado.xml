@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Empleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>asdf</Nombre>
+  <Apellido>asdfasdf</Apellido>
+  <Legajo>321-6513-51</Legajo>
+  <Salario>4654</Salario>
+  <PuestoJerarquico>Administración</PuestoJerarquico>
+</Empleado>
