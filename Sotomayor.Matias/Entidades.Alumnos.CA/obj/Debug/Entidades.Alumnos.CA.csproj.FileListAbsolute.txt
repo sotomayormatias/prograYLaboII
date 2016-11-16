@@ -1,0 +1,10 @@
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\bin\Debug\Entidades.Alumnos.CA.exe.config
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\bin\Debug\Entidades.Alumnos.CA.exe
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\bin\Debug\Entidades.Alumnos.CA.pdb
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\bin\Debug\Entidades.Alumnos.dll
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\bin\Debug\Entidades.Alumnos.pdb
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\obj\Debug\Entidades.Alumnos.CA.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\obj\Debug\Entidades.Alumnos.CA.exe
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\obj\Debug\Entidades.Alumnos.CA.pdb
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\bin\Debug\Entidades.Externa.dll
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos.CA\bin\Debug\Entidades.Externa.Otra.dll

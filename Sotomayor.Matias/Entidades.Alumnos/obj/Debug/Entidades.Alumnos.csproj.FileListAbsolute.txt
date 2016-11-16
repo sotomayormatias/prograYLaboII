@@ -1,0 +1,12 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.dll
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.pdb
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.csprojResolveAssemblyReference.cache
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.dll
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.pdb
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos\bin\Debug\Entidades.Externa.dll
+D:\Sotomayor\Sotomayor.Matias\Entidades.Alumnos\bin\Debug\Entidades.Externa.Otra.dll
