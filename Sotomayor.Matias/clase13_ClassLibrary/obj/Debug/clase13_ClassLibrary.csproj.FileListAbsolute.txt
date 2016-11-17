@@ -8,3 +8,8 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase13_ClassLibrary\bin\Debug\clase13_Clas
 D:\Sotomayor\Clases\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Clases\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.dll
 D:\Sotomayor\Clases\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13_ClassLibrary\bin\Debug\clase13_ClassLibrary.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13_ClassLibrary\bin\Debug\clase13_ClassLibrary.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13_ClassLibrary\obj\Debug\clase13_ClassLibrary.pdb

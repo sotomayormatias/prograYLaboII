@@ -9,3 +9,11 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.pdb
 D:\Sotomayor\Sotomayor.Matias\clase20_CA\bin\Debug\clase20_CA.exe.config
 D:\Sotomayor\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.exe
 D:\Sotomayor\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20_CA.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20_CA.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20_CA.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\bin\Debug\clase20.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase20_CA\obj\Debug\clase20_CA.csprojResolveAssemblyReference.cache

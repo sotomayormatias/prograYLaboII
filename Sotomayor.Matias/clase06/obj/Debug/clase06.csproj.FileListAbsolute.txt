@@ -16,3 +16,12 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.Properties.Resour
 D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.csproj.GenerateResource.Cache
 D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.exe
 D:\Sotomayor\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\bin\Debug\clase06.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\bin\Debug\clase06.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\bin\Debug\clase06.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.Form1.resources
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.Properties.Resources.resources
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.csproj.GenerateResource.Cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase06\obj\Debug\clase06.pdb

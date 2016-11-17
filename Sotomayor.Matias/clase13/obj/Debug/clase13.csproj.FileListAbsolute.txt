@@ -14,3 +14,11 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13_ClassLibrary.pdb
 D:\Sotomayor\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.exe
 D:\Sotomayor\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13_ClassLibrary.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\bin\Debug\clase13_ClassLibrary.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase13\obj\Debug\clase13.pdb

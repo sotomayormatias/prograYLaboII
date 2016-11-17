@@ -10,3 +10,9 @@ D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio13\bin\Debug\ejercicio13.pdb
 D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.exe
 D:\Sotomayor\Clases\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio13\bin\Debug\ejercicio13.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio13\bin\Debug\ejercicio13.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio13\bin\Debug\ejercicio13.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio13\obj\Debug\ejercicio13.pdb

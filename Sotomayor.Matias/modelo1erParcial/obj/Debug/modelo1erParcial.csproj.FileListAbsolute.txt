@@ -14,3 +14,11 @@ D:\Sotomayor\Clases\Sotomayor.Matias\modelo1erParcial\bin\Debug\Modelo1erParcial
 D:\Sotomayor\Clases\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Clases\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.exe
 D:\Sotomayor\Clases\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\bin\Debug\modelo1erParcial.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\bin\Debug\modelo1erParcial.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\bin\Debug\modelo1erParcial.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\bin\Debug\Modelo1erParcialLibrary.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\bin\Debug\Modelo1erParcialLibrary.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\modelo1erParcial\obj\Debug\modelo1erParcial.pdb

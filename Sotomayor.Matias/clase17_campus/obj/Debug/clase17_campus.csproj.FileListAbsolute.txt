@@ -14,3 +14,11 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus.pdb
 D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus_CL.dll
 D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus_CL.pdb
 D:\Sotomayor\Clases\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus_CL.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\bin\Debug\clase17_campus_CL.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase17_campus\obj\Debug\clase17_campus.pdb

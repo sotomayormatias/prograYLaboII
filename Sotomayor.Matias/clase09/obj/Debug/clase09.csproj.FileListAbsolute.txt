@@ -16,3 +16,9 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase09\bin\Debug\lavadero.pdb
 D:\Sotomayor\Clases\Sotomayor.Matias\clase09\obj\Debug\clase09.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Clases\Sotomayor.Matias\clase09\obj\Debug\clase09.exe
 D:\Sotomayor\Clases\Sotomayor.Matias\clase09\obj\Debug\clase09.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\bin\Debug\clase09.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\bin\Debug\clase09.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\bin\Debug\lavadero.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\bin\Debug\lavadero.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\obj\Debug\clase09.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase09\obj\Debug\clase09.pdb

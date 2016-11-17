@@ -3,3 +3,8 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\bin\Debug\clase19_campus_
 D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\bin\Debug\clase19_campus_CL.pdb
 D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.dll
 D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CL\bin\Debug\clase19_campus_CL.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CL\bin\Debug\clase19_campus_CL.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CL\obj\Debug\clase19_campus_CL.pdb

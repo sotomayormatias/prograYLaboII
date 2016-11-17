@@ -6,3 +6,11 @@ D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CA\bin\Debug\clase19_campus_
 D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CA\obj\Debug\clase19_campus_CA.csprojResolveAssemblyReference.cache
 D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CA\obj\Debug\clase19_campus_CA.exe
 D:\Sotomayor\Clases\Sotomayor.Matias\clase19_campus_CA\obj\Debug\clase19_campus_CA.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\bin\Debug\clase19_campus_CA.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\bin\Debug\clase19_campus_CA.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\bin\Debug\clase19_campus_CA.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\bin\Debug\clase19_campus_CL.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\bin\Debug\clase19_campus_CL.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\obj\Debug\clase19_campus_CA.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\obj\Debug\clase19_campus_CA.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\clase19_campus_CA\obj\Debug\clase19_campus_CA.pdb
