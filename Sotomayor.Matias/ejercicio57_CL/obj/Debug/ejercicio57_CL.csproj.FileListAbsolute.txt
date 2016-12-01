@@ -1,0 +1,5 @@
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio57_CL\obj\Debug\ejercicio57_CL.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio57_CL\bin\Debug\ejercicio57_CL.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio57_CL\bin\Debug\ejercicio57_CL.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio57_CL\obj\Debug\ejercicio57_CL.dll
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejercicio57_CL\obj\Debug\ejercicio57_CL.pdb
