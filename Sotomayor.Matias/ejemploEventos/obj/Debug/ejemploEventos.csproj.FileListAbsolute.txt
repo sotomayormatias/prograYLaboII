@@ -1,0 +1,6 @@
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploEventos\bin\Debug\ejemploEventos.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploEventos\obj\Debug\ejemploEventos.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploEventos\bin\Debug\ejemploEventos.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploEventos\bin\Debug\ejemploEventos.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploEventos\obj\Debug\ejemploEventos.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploEventos\obj\Debug\ejemploEventos.pdb

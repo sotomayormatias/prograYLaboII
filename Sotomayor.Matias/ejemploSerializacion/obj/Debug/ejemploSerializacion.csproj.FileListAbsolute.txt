@@ -1,0 +1,6 @@
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploSerializacion\bin\Debug\ejemploSerializacion.exe.config
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploSerializacion\obj\Debug\ejemploSerializacion.csprojResolveAssemblyReference.cache
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploSerializacion\bin\Debug\ejemploSerializacion.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploSerializacion\bin\Debug\ejemploSerializacion.pdb
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploSerializacion\obj\Debug\ejemploSerializacion.exe
+C:\repositorios\LaboYProgra2\Clases\Sotomayor.Matias\ejemploSerializacion\obj\Debug\ejemploSerializacion.pdb

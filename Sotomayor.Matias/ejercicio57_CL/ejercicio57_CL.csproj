@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Centralita.cs" />
     <Compile Include="CentralitaException.cs" />
+    <Compile Include="Extensora.cs" />
     <Compile Include="ISerializable.cs" />
     <Compile Include="Llamada.cs" />
     <Compile Include="Local.cs" />

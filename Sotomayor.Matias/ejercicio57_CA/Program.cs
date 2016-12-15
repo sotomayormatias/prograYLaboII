@@ -31,6 +31,7 @@ namespace ejercicio57_CA
             Console.ReadKey();
 
             centra.Serializarse();
+            centra.Saludar("Matias");
             Console.ReadKey();
 
             centra.DeSerializarse();
